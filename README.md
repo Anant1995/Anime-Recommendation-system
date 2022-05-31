@@ -4,7 +4,7 @@
 There are around 16000 anime in the world. And anime became one of 
 the most populer medium of entertainment. There is a big anime weeb
 community in the world. So I tried to make content based anime 
-recommendatio sytem using text processing.
+recommendation system using text processing.
 
 ## Technical Aspect
 Data was taken from kaggle
