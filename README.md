@@ -2,7 +2,7 @@
 # Anime Recommendation system
 
 There are around 16000 anime in the world. And anime became one of 
-the most populer medium of entertainment. There is a big anime weeb
+the most popular medium of entertainment. There is a big anime weeb
 community in the world. So I tried to make content based anime 
 recommendation system using text processing.
 
