@@ -21,5 +21,5 @@ Used Cosine Similarity to get nearest Vectors
 
 Made Recommendation Function
 
-A samll app designed using Python Streamlit library
+A small app designed using Python Streamlit library
 
